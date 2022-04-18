@@ -1,21 +1,21 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador TanzCode">
 
-<p align="left" style=¨font-size=14¨> 
+<p align="left"> 
   👋 Olá, meu nome é Cauã.<br>
   💻 Atualmente aprendendo <strong>novas tecnologias</strong> e desenvolvendo <strong>soluções de software</strong>.<br>
 </p>
 
-<p align="left" style=¨font-size=14¨>
+<p align="left">
   ☕ Linguagens: <strong>Java (Em curso).</strong>
 </p>
 
-<p align="left" style=¨font-size=14¨>
+<p align="left">
   💼 Ferramentas: <strong>Visual Studio Code, Intellij IDEA, GitHub (Em curso).</strong>
 </p>
 
-<h3>
-  📞 Contato:
-</h3>
+<p align="left">
+  📞 <strong>Contato:</strong>
+</p>
 
 <p align="left">
   <a href="mailto:cauamelo2345@gmail.com" alt="Gmail">

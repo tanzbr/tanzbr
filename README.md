@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador TanzCode">
 
 <p align="left"> 
-  👋 Olá, meu nome é Cauã.
+  👋 Olá, meu nome é Cauã.<br>
   💻 Atualmente aprendendo <strong>novas tecnologias</strong> e desenvolvendo <strong>soluções de software</strong>.<br>
 </p>
 
@@ -13,9 +13,9 @@
   💼 Ferramentas: <strong>Visual Studio Code, Intellij IDEA, GitHub (Em curso).</strong>
 </p>
 
-<p align="left">
+<h3>
   📞 Contato:
-</p>
+</h3>
 
 <p align="left">
   <a href="mailto:cauamelo2345@gmail.com" alt="Gmail">
@@ -30,3 +30,5 @@
   <a href="https://instagram.com/caua_melooo" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/caua_melooo"/></a>
 </p>  
+
+  [![TanzCode](https://github-readme-stats.vercel.app/api/top-langs/?username=TanzCode&hide=html&layout=compact=true&theme=radical)](https://github.com/TanzCode/)

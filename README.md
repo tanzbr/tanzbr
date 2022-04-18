@@ -51,6 +51,8 @@
 <a href="https://github.com/TanzCode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TanzCode&theme=dracula&show_icons=true" />
 </a>
+  
+  [![TanzCode](https://github-readme-stats.vercel.app/api/top-langs/?username=TanzCode&hide=html&layout=compact=true&theme=default)](https://github.com/TanzCode/)
 
 <br/>
 

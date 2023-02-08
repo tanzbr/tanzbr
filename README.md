@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  ☕ Linguagens: <strong>Java (Em curso).</strong>
+  ☕ Linguagens e Tecnologias: <strong>Java, HTML, CSS, JavaScript, NodeJS, SQL.</strong>
 </p>
 
 <p align="left">

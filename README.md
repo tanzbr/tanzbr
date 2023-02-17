@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, Intellij IDEA, GitHub (Em curso).</strong>
+  💼 Ferramentas: <strong>Visual Studio Code, Intellij IDEA, Git.</strong>
 </p>
 
 <p align="left">

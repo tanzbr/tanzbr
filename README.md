@@ -1,7 +1,7 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador TanzCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Image">
 
 <p align="left"> 
-  👋 Olá, meu nome é Cauã.<br>
+  👋 Olá, meu nome é Cauã e atuo como Desenvolvedor Java.<br>
   💻 Atualmente aprendendo <strong>novas tecnologias</strong> e desenvolvendo <strong>soluções de software</strong>.<br>
 </p>
 

@@ -31,4 +31,4 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/caua_melooo"/></a>
 </p>  
 
-  [![TanzCode](https://github-readme-stats.vercel.app/api/top-langs/?username=Need3v&hide=html&layout=compact=true&theme=radical)](https://github.com/Need3v/)
+  [![TanzDev](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzbr&hide=html&layout=compact=true&theme=radical)](https://github.com/tanzbr/)

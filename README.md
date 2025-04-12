@@ -4,7 +4,6 @@
 <p align="left"> 
 
  📚 Studying a bachelor's degree in <strong>Information Systems</strong> at the <strong>State University of Tocantins</strong>.<br>
- 💻 Currently learning <strong>new technologies</strong> and developing <strong>software solutions</strong>.
   <p align="left">
   📞 <strong>Contact:</strong>
 </p>

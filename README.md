@@ -1,9 +1,9 @@
- <h1>👋 Hi, I'm <strong>Cauã</strong>.</h1>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computer Image">
+ <h1>Hi, I'm <strong>Cauã</strong>.</h1>
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computer Image"> -->
 
 <p align="left"> 
 
- 📚 Studying a bachelor's degree in <strong>Information Systems</strong> at the <strong>State University of Tocantins</strong>.<br>
+ Studying a bachelor's degree in <strong>Information Systems</strong> at the <strong>State University of Tocantins</strong>.<br>
   <p align="left">
   📞 <strong>Contact:</strong>
 </p>
